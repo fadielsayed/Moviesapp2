@@ -1,27 +1,4 @@
-# Movies Application 
 
--show trending Movies and top rated
-
--can search for a specific movie
-
--show all movie details 
-
-## Api Used
-
-https://www.themoviedb.org/
-
-### packages Used
--Dio 
-
--card Swiper 
-
--Cached Network Image
-
-
-## Video
-
-
-https://user-images.githubusercontent.com/64389727/153096361-e2857903-a709-40de-a6c6-59d4396a3069.mp4
 ## Screens
 
 
